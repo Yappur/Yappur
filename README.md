@@ -2,7 +2,6 @@
 
 Soy un apasionado del desarrollo web con enfoque en el stack MERN (MongoDB, Express.js, React.js, Node.js), siempre en busca de mejorar, aprender y llevar mis habilidades al siguiente nivel, disfruto cada desafío como una oportunidad para superarme..
 
----
 
 # 🤓 Sobre mí
 - 🚀 Me entusiasma construir aplicaciones que resuelvan problemas reales.
@@ -11,7 +10,7 @@ Soy un apasionado del desarrollo web con enfoque en el stack MERN (MongoDB, Expr
 - 🎯 Disfruto trabajar en equipo, liderar cuando hace falta y comunicar ideas de forma clara y efectiva.
 - 🔎 Siempre estoy explorando nuevas herramientas, tecnologías y metodologías para mejorar mi código y mis procesos.
 
----
+--
 
 # 💻 Tech Stack:
 
@@ -27,9 +26,7 @@ Soy un apasionado del desarrollo web con enfoque en el stack MERN (MongoDB, Expr
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<a href="https://github.com/Yappur">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yappur&show_icons=true&hide=contribs,issues&locale=es&theme=dark" width="45%" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yappur&theme=dark&locale=es" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/Yappur">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yappur&locale=es&theme=dark&layout=compact" width="45%" />
