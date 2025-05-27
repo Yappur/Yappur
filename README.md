@@ -24,22 +24,18 @@ Soy un apasionado del desarrollo web con enfoque en el stack MERN (MongoDB, Expr
 
 # 📊 GitHub Stats:
 
-<table cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Yappur&theme=dark&locale=es" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yappur&locale=es&theme=dark&layout=compact" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yappur&theme=dark&locale=es" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yappur&locale=es&theme=dark&layout=compact" alt="Top Languages" />
+</div>
 
 # 📬 Contacto
 
 <p align="center">
-  📩 ¿Querés trabajar conmigo o tenés alguna consulta?  
- ¡No dudes en escribirme!
+  📩 ¿Querés trabajar conmigo o tenés alguna consulta? ¡No dudes en escribirme!
+</p>
+
+<p align="center">
   <a href="mailto:mateox463@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
