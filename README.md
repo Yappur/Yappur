@@ -10,7 +10,7 @@ Soy un apasionado del desarrollo web con enfoque en el stack MERN (MongoDB, Expr
 - 🎯 Disfruto trabajar en equipo, liderar cuando hace falta y comunicar ideas de forma clara y efectiva.
 - 🔎 Siempre estoy explorando nuevas herramientas, tecnologías y metodologías para mejorar mi código y mis procesos.
 
---
+---
 
 # 💻 Tech Stack:
 
@@ -24,13 +24,27 @@ Soy un apasionado del desarrollo web con enfoque en el stack MERN (MongoDB, Expr
 
 # 📊 GitHub Stats:
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Yappur&theme=dark&locale=es" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yappur&locale=es&theme=dark&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yappur&theme=dark&locale=es" alt="GitHub Streak" /></a>
+# 📬 Contacto
 
-<a href="https://github.com/Yappur">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yappur&locale=es&theme=dark&layout=compact" width="45%" />
-</a>
+<p align="center">
+  <a href="mailto:mateox463@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mateoyapur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-</div>
-
+> 📩 ¿Querés trabajar conmigo o tenés alguna consulta?  
+> ¡No dudes en escribirme!
