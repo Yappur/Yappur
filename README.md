@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi%2C+It's+Mateo!;Full-Stack+Developer;Tech+enthusiast;Welcome+to+my+profile!" alt="Title"></img>
+  
+  <video src="[URL_DEL_VIDEO](https://github.com/user-attachments/assets/adb33648-6c15-49b8-9ddf-d97cb7e8ab96)" autoplay loop muted playsinline width="600"></video>
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi%2C+It's+Mateo!;Full-Stack+Developer;Tech+enthusiast;Welcome+to+my+profile!" alt="Title"></img> -->
 </div>
+
+
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
