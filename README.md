@@ -7,22 +7,42 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me - En/Es
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
-- 🚀 I'm passionate about building applications that solve real-world problems.
-- 🧠 I learn by doing: I love getting my hands dirty with code and tackling practical challenges.
-- 🤝 I've worked on both personal and collaborative projects, where I've strengthened my technical abilities and soft skills.
-- 🎯 I enjoy working in teams, stepping up to lead when needed, and communicating ideas clearly and effectively.
-- 🔎 I'm always exploring new tools, technologies, and methodologies to improve my code and development processes.
+- 🚀 Passionate about building applications that solve real-world problems.
+- 🧠 Learning by doing hands-on coding and tackling practical challenges are my favorite ways to grow.
+- 🤝 Experienced in both personal and collaborative projects, strengthening technical expertise and soft skills along the way.
+- 🎯 Comfortable working in teams, stepping up to lead when needed, and communicating ideas clearly and effectively.
+- 🔎 Always exploring new tools, technologies, and methodologies to write better code and improve development processes.
 
 </td>
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="450" src="https://github.com/Yappur/Yappur/releases/download/1.1/GlitchGif.gif">
 </td>
+</tr>
+</table>
+
+<table align="center">
+<tr border="none">
+
+  <td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://github.com/Yappur/Yappur/releases/download/1.1/GlitchGif.gif">
+</td>
+
+<td width="50%" align="left">
+
+- 🚀 Especializado en el stack MERN, con enfoque en crear aplicaciones que resuelvan problemas reales.
+- 🧠 Aprendo de forma práctica: disfruto programar, experimentar y enfrentar desafíos que me hagan crecer.
+- 🤝 He trabajado en proyectos personales y en equipo, fortaleciendo tanto mis habilidades técnicas como blandas.
+- 🎯 Me siento cómodo en entornos dinámicos, aportando ideas claras, responsabilidad y colaboración.
+- 🔎 Siempre busco explorar nuevas herramientas y metodologías para mejorar mis procesos de desarrollo.
+
+</td>
+
 </tr>
 </table>
 
