@@ -1,6 +1,7 @@
 <div align="center">
-  ![Image](https://github.com/user-attachments/assets/58cfb726-5e07-4777-afde-57ff7a39ed97)
-<!-- <video src="https://github.com/user-attachments/assets/adb33648-6c15-49b8-9ddf-d97cb7e8ab96" autoplay loop muted playsinline width="600"></video> -->
+  
+  <img src="https://github.com/Yappur/Yappur/releases/download/1.0/GifMateoYapurProfile.gif" alt="Profile GIF" width="600"/>
+  
 <!--   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi%2C+It's+Mateo!;Full-Stack+Developer;Tech+enthusiast;Welcome+to+my+profile!" alt="Title"></img> -->
 </div>
 
