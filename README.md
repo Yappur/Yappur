@@ -11,7 +11,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="55%" align="left">
 
 - 🚀 Passionate about building applications that solve real-world problems.
 - 🧠 Learning by doing hands-on coding and tackling practical challenges are my favorite ways to grow.
@@ -20,8 +20,8 @@
 - 🔎 Always exploring new tools, technologies, and methodologies to write better code and improve development processes.
 
 </td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" src="https://github.com/Yappur/Yappur/releases/download/1.2/wavesGreen.gif" style="max-width:100%; height:auto;>
+<td width="45%" align="center">
+  <img align="center" alt="Coding" src="https://github.com/Yappur/Yappur/releases/download/1.2/wavesGreen.gif" style="max-width:100%; height:320px; object-fit:contain;">
 </td>
 </tr>
 </table>
@@ -29,11 +29,11 @@
 <table align="center">
 <tr border="none">
 
-  <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://github.com/Yappur/Yappur/releases/download/1.1/GlitchGif.gif ">
+  <td width="45%" align="center">
+  <img align="center" alt="Coding" src="https://github.com/Yappur/Yappur/releases/download/1.2/theMatrix.gif" style="max-width:100%; height:320px; object-fit:contain;">
 </td>
 
-<td width="50%" align="left">
+<td width="55%" align="left">
 
 - 🚀 Especializado en el stack MERN, con enfoque en crear aplicaciones que resuelvan problemas reales.
 - 🧠 Aprendo de forma práctica: disfruto programar, experimentar y enfrentar desafíos que me hagan crecer.
