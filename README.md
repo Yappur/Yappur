@@ -21,7 +21,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://github.com/Yappur/Yappur/releases/download/1.2/hackingGif.gif">
+  <img align="center" alt="Coding" src="https://github.com/Yappur/Yappur/releases/download/1.2/wavesGreen.gif" style="max-width:100%; height:auto;>
 </td>
 </tr>
 </table>
