@@ -21,7 +21,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://github.com/Yappur/Yappur/releases/download/1.1/GlitchGif.gif">
+  <img align="center" alt="Coding" width="450" src="https://github.com/Yappur/Yappur/releases/download/1.2/hackingGif.gif">
 </td>
 </tr>
 </table>
@@ -30,7 +30,7 @@
 <tr border="none">
 
   <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://github.com/Yappur/Yappur/releases/download/1.1/GlitchGif.gif">
+  <img align="center" alt="Coding" width="450" src="https://github.com/Yappur/Yappur/releases/download/1.1/GlitchGif.gif ">
 </td>
 
 <td width="50%" align="left">
