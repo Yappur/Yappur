@@ -91,9 +91,35 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Gimp](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
-## 📹 Videos de mi canal de [YouTube](https://www.youtube.com/@MattYappp)
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+## 📹 Videos from my [YouTube channel](https://www.youtube.com/@MattYappp)
+
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://youtu.be/r9zqUzegZ7o">
+        <img src="https://img.youtube.com/vi/r9zqUzegZ7o/maxresdefault.jpg" width="350">
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/Oez3TDYY_vo">
+        <img src="https://img.youtube.com/vi/Oez3TDYY_vo/maxresdefault.jpg" width="350">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://youtu.be/U7ov0gVVsgE">
+        <img src="https://img.youtube.com/vi/U7ov0gVVsgE/maxresdefault.jpg" width="350">
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/h16GlO6Kukg">
+        <img src="https://img.youtube.com/vi/h16GlO6Kukg/maxresdefault.jpg" width="350">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px"> GitHub Stats
 
